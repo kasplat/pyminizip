@@ -31,7 +31,7 @@
 
 /* the following typedef fixes compile error "unknown type name ‘z_crc_t’" on 
    old versions of zlib */
-typedef unsigned long z_crc_t;
+//typedef unsigned long z_crc_t;
 
 /***********************************************************************
  * Return the next byte in the pseudo-random sequence
